@@ -1,22 +1,6 @@
-# Motorized-Prosthetic-Arm
-Designing and controlling a motorized prosthetic arm - my final project for MS in Robotics at Northwestern, 2021.
-<br><br>
+# ME433-AdvancedMechatronics
+## Repository for Advances Mechatronics Homeworks
 
-## This is an ongoing project. Here is a little teaser:
-
-The motor rotates with a sin-wave input:
-
-<img src="https://github.com/YaelBenShalom/Motorized-Prosthetic-Arm/blob/master/images/motor_control/motor_rotating_sine_wave.gif">
-
-
-
-A preliminary design of the device:
-
-<img src="https://github.com/YaelBenShalom/Motorized-Prosthetic-Arm/blob/master/images/mech_design/mech_design_24092021.png" width="300"><br>
-<img src="https://github.com/YaelBenShalom/Motorized-Prosthetic-Arm/blob/master/images/mech_design/mech_design_24092021_2.png" width="300">
-
-
-
-Modeling a human arm as a double pendulum:
-
-<img src="https://github.com/YaelBenShalom/Motorized-Prosthetic-Arm/blob/master/images/double_pendulum/arm_pendulum_animation_TD_WN2.gif">
+## HW11 - IMU:
+In this assignment, I added an IMU to calculate acceleration (accelerometer) and angular velocity (gyroscopic) data about the X, Y, and Z axes with 16 bit resolution, with a variety of sensitivities.<br>
+![IMU](https://github.com/YaelBenShalom/ME433-AdvancedMechatronics/blob/master/HW11/videos/HW11-demonstration.gif)
